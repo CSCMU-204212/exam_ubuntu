@@ -1,0 +1,9 @@
+{
+	"font_size": 24,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"index_files": true,
+}

@@ -1,0 +1,26 @@
+[CLIENT] 0x5003e55
+  [CLIENT_ID] 26ef17471-1849-4e38-9b72-175aefebbcec
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] xfce4-terminal-1717311444-2120139922
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - exam@pomegranate: ~/.config
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (0,49,900,1391)
+  [GEOMETRY-MAXIMIZED] (106,346,738,555)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x5003548
+  [CLIENT_ID] 26ef17471-1849-4e38-9b72-175aefebbcec
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] xfce4-terminal-1717310834-173520118
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - exam@pomegranate: ~/.config
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (91,423,738,555)
+  [GEOMETRY-MAXIMIZED] (91,423,738,555)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
