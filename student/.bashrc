@@ -203,6 +203,7 @@ if ! echo "$PATH" | grep -q "$HOME/.local/bin"; then
   export PATH="$PATH:$HOME/.local/bin"
 fi
 
+
 # Check if a screen session named "emacs" exists, if not, start Emacs daemon in a new screen session
 if ! pgrep -f "emacs --daemon --no-desktop" >/dev/null; then
   ('emacs' --daemon --no-desktop >/dev/null 2>&1)

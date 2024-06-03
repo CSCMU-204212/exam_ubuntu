@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-language-selector.desktop" score="0" last-seen="1717416419"/>
+    <application id="sublime_text.desktop" score="115" last-seen="1717416230"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1717414543"/>
+    <application id="org.gnome.Terminal.desktop" score="148" last-seen="1717416518"/>
+    <application id="gnome-control-center.desktop" score="9" last-seen="1717416562"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+  </context>
+</application-state>

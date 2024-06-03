@@ -1,0 +1,76 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "innotek GmbH",
+    "Product": "VirtualBox",
+    "Family": "Virtual Machine"
+  },
+  "BIOS": {
+    "Vendor": "innotek GmbH",
+    "Version": "VirtualBox"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v2",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 2,
+  "Disks": [
+    30.8
+  ],
+  "Partitions": [
+    29.1,
+    0.2
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "1912x955",
+      "Frequency": "59.88"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "Asia/Bangkok",
+  "Install": {
+    "Media": "Ubuntu 22.04.4 LTS \"Jammy Jellyfish\" - Release amd64 (20240220)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "6": "console_setup",
+      "8": "prepare",
+      "26": "partman",
+      "29": "partman",
+      "30": "partman",
+      "31": "partman",
+      "50": "partman",
+      "53": "partman",
+      "71": "partman",
+      "72": "partman",
+      "96": "partman",
+      "119": "partman",
+      "128": "partman",
+      "132": "start_install",
+      "142": "timezone",
+      "148": "usersetup",
+      "207": "user_done",
+      "3850": "done"
+    }
+  }
+}

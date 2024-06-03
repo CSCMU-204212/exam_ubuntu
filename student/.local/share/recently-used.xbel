@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Preferences.sublime-settings" added="2024-06-03T11:57:25.447295Z" modified="2024-06-03T11:57:25.447301Z" visited="2024-06-03T11:57:25.447296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:57:25.447298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/Default/Preferences.sublime-settings" added="2024-06-03T11:57:25.447334Z" modified="2024-06-03T11:58:42.740993Z" visited="2024-06-03T11:57:25.447335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:58:42.740992Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Go.sublime-settings" added="2024-06-03T11:57:48.856216Z" modified="2024-06-03T11:58:00.299624Z" visited="2024-06-03T11:57:48.856216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:58:00.299622Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Desktop/hello.js" added="2024-06-03T11:58:09.534798Z" modified="2024-06-03T11:58:09.534803Z" visited="2024-06-03T11:58:09.534799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:58:09.534801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Python.sublime-settings" added="2024-06-03T11:58:25.150072Z" modified="2024-06-03T11:58:25.150076Z" visited="2024-06-03T11:58:25.150072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:58:25.150074Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Bash.sublime-settings" added="2024-06-03T11:58:42.740966Z" modified="2024-06-03T11:58:42.740970Z" visited="2024-06-03T11:58:42.740967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:58:42.740968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Desktop/hello.sh" added="2024-06-03T11:59:08.122849Z" modified="2024-06-03T11:59:08.122854Z" visited="2024-06-03T11:59:08.122850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:59:08.122851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Desktop/hello.py" added="2024-06-03T11:59:08.122869Z" modified="2024-06-03T11:59:08.122871Z" visited="2024-06-03T11:59:08.122869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:59:08.122870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/Desktop/hello.go" added="2024-06-03T11:59:08.122878Z" modified="2024-06-03T11:59:08.122880Z" visited="2024-06-03T11:59:08.122879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-go"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T11:59:08.122879Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Terminus.sublime-settings" added="2024-06-03T12:00:49.542021Z" modified="2024-06-03T12:00:49.542026Z" visited="2024-06-03T12:00:49.542022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:00:49.542024Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/Terminus/Terminus.sublime-settings" added="2024-06-03T12:00:49.542045Z" modified="2024-06-03T12:00:49.542048Z" visited="2024-06-03T12:00:49.542045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:00:49.542046Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/Terminus/Default.sublime-keymap" added="2024-06-03T12:00:50.261277Z" modified="2024-06-03T12:00:50.924402Z" visited="2024-06-03T12:00:50.261278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:00:50.924401Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/Default%20(Linux).sublime-keymap" added="2024-06-03T12:00:50.261306Z" modified="2024-06-03T12:00:50.924362Z" visited="2024-06-03T12:00:50.261307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:00:50.924359Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/User/SublimeLinter.sublime-settings" added="2024-06-03T12:01:23.474669Z" modified="2024-06-03T12:01:23.474674Z" visited="2024-06-03T12:01:23.474670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:01:23.474672Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/.config/sublime-text/Packages/SublimeLinter/SublimeLinter.sublime-settings" added="2024-06-03T12:01:23.474709Z" modified="2024-06-03T12:01:23.474711Z" visited="2024-06-03T12:01:23.474709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2024-06-03T12:01:23.474710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

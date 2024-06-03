@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+        "mypy": {
+            "executable": "mypy",
+            "args": [
+                "--ignore-missing-imports"
+            ],
+            "python": "3.10"
+        }
+    }
+}
