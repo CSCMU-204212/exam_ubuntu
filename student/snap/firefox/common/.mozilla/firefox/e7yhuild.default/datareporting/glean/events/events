@@ -1,0 +1,3 @@
+{"timestamp":1410434,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":1411586,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":1413443,"category":"nimbus_events","name":"is_ready"}
